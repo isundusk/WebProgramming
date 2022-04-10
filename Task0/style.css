@@ -1,0 +1,29 @@
+title{
+    text-shadow: 3px 2px rgb(229, 255, 0);
+  }
+  body {
+    text-align: center;
+    font-family: cursive;
+    background:url(./bg.jpg)  no-repeat center center;
+    background-size: cover;
+  }
+  h1{
+    font-family: sans-serif;
+    color: black
+  }
+  h2{
+    color: rgb(128, 128, 128)
+  }
+  h3{
+    color: black 
+  }
+  p{
+    font-size:20px;
+    color:rgb(253, 105, 221)
+  }
+  img {
+    border: 5px solid rgb(253, 105, 221);
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+  }
